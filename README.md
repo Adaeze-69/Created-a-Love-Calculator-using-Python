@@ -21,7 +21,7 @@ Otherwise, the message will just be their score. e.g.:
 e.g.
 
 name1 = "Adaeze Nnamdi"
-name2 = "Smith John"
+name2 = "Samuel John"
 T occurs 0 times
 
 R occurs 1 time
