@@ -58,4 +58,5 @@ name2 = "Jennifer Aniston"
 Example Output 2
 Your score is 73.
 
-# Solution: [https://replit.com/@adaeze-nnamdi/Created-a-Love-Calculator-using-Python](https://replit.com/@adaeze-nnamdi/Created-a-Love-Calculator-using-Python)
+# Solution: 
+[https://replit.com/@adaeze-nnamdi/Created-a-Love-Calculator-using-Python](https://replit.com/@adaeze-nnamdi/Created-a-Love-Calculator-using-Python)
