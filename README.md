@@ -20,8 +20,8 @@ Otherwise, the message will just be their score. e.g.:
 "Your score is **z**."
 e.g.
 
-name1 = "Angela Yu"
-name2 = "Jack Bauer"
+name1 = "Adaeze Nnamdi"
+name2 = "Smith John"
 T occurs 0 times
 
 R occurs 1 time
