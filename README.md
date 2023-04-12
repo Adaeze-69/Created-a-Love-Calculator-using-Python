@@ -22,29 +22,30 @@ e.g.
 
 name1 = "Adaeze Nnamdi"
 name2 = "Samuel John"
+
 T occurs 0 times
 
-R occurs 1 time
+R occurs 0 time
 
-U occurs 2 times
+U occurs 1 times
 
-E occurs 2 times
+E occurs 3 times
 
-Total = 5
+Total = 4
 
 L occurs 1 time
 
-O occurs 0 times
+O occurs 1 times
 
 V occurs 0 times
 
-E occurs 2 times
+E occurs 3 times
 
-Total = 3
+Total = 5
 
-Love Score = 53
+Love Score = 45
 
-Print: "Your score is 53."
+Print: "Your score is 45."
 
 Example Input 1
 name1 = "Kanye West"
